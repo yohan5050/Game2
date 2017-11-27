@@ -10,7 +10,7 @@
         android:id="@+id/startBtn"
         android:layout_width="100dp"
         android:layout_height="50dp"
-        android:text="Game 2"
+        android:text="Game 2 start"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="8dp"
